@@ -2,11 +2,11 @@
 #include<coni.h>
 void main()
 {
-char n;
+char s;
 clrscr();
 printf("enter a character");
-scanf("%c",&n);
-if(n==a&&n==e&&n==i&&n==o&&u)
+scanf("%c",&s);
+if(s==a&&s==e&&s==i&&s==o&&u)
 {
 printf("Alfapht");
 }
