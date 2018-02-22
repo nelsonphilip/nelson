@@ -12,4 +12,5 @@ for(i=b+1;i<=a;i++)
    printf("%d",i);
   }
  }
+getch();
 }
