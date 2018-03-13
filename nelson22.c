@@ -1,6 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+int main()
 {
     int i,j,n,a[15],temp;
     clrscr();
@@ -23,6 +22,6 @@ void main()
         }
     }
     printf("%d",a[n-1]);
-    getch();
+   return 0;
 
 }
