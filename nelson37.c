@@ -2,12 +2,12 @@
 #include<conio.h>
 void main()
 {
-int a,b,c;
+int s,n,p;
 printf("enter two numbers");
-scanf("%d%d",&a,&b);
-c=a;
-a=b;
-b=c;
-printf("%d\t%d",a,b);
+scanf("%d%d",&s,&n);
+p=s;
+s=n;
+n=p;
+printf("%d\t%d",s,n);
 getch();
 }
